@@ -25,6 +25,7 @@ public class NhapBt {
             }
         }
 
+        //kashfkjasfasfasfbasf
 
     public static void print_multiplication_table(int rows, int cols){
         cols = cols + 1;
